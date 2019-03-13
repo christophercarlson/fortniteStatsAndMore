@@ -1,0 +1,15 @@
+{
+  "name": "fortnite-app",
+  "version": "1.0.0",
+  "description": "Interacting with console to view stats and weapons. ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christopher Carlson",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^6.2.2",
+    "yargs": "^13.2.2"
+  }
+}
